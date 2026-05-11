@@ -236,7 +236,6 @@ MIT License — see [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgements
 
-- **BEAR Summit 2026** — for the AI App Development Challenge platform
 - **NASA MODIS / TRMM / VIIRS** — open satellite data programs
 - **Bangladesh DGHS** — Directorate General of Health Services data
 - **Expo & React Native communities** — for the incredible developer experience

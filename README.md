@@ -12,7 +12,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/License-MIT-1A6B3A?style=flat-square)](LICENSE)
 
-[**📱 Download APK**](https://expo.dev/artifacts/eas/g9Dp6LAips6NPiZ7AtpXGe.apk) · [**📄 Full Documentation**](./presentation/DengueSense_BD_Complete_Guide.pdf) · [**🎨 Presentation**](./presentation/DengueSense_BD_BEAR_Summit_2026.pptx)
+[**📱 Download APK**](https://expo.dev/artifacts/eas/dCP2jhqvdVSYJQdwyjUUr5.apk)
 
 </div>
 

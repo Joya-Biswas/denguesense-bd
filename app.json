@@ -24,7 +24,7 @@
       "eas": {
         "projectId": "fe572fac-9844-4eae-a28b-7cf6fa19b6d1"
       },
-      "apiUrl": "https://denguesense-api.up.railway.app"
+      "apiUrl": "https://denguesense-backend-1.onrender.com"
     },
     "owner": "jb1010"
   }

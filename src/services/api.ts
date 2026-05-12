@@ -19,7 +19,7 @@ import Constants from 'expo-constants';
 // ─── Base URL ────────────────────────────────────────────────────────────────
 const ENV_URL    = process.env.EXPO_PUBLIC_API_URL;
 const CONFIG_URL = Constants.expoConfig?.extra?.apiUrl as string | undefined;
-const PROD_URL   = 'https://denguesense-api.up.railway.app';   // update after deploy
+const PROD_URL   = 'https://denguesense-backend-1.onrender.com';
 const DEV_URL    = 'http://localhost:8000';
 
 export const API_BASE =

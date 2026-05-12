@@ -87,7 +87,7 @@ Full bilingual support (**English + বাংলা**), data source toggles, ale
 
 1. Download the APK on your Android device:
    ```
-   https://expo.dev/artifacts/eas/g9Dp6LAips6NPiZ7AtpXGe.apk
+   https://expo.dev/artifacts/eas/dCP2jhqvdVSYJQdwyjUUr5.apk
    ```
 2. Open the downloaded file and tap **Install**
 3. Allow installation from this source when prompted

@@ -5,6 +5,13 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
+    "icon": "./assets/icon.png",
+    "favicon": "./assets/favicon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1A6B3A"
+    },
     "android": {
       "package": "bd.bsia.denguesense",
       "versionCode": 1,
@@ -12,7 +19,11 @@
         "NOTIFICATIONS",
         "VIBRATE",
         "RECEIVE_BOOT_COMPLETED"
-      ]
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
     },
     "plugins": [
       "expo-router",
@@ -26,6 +37,12 @@
       },
       "apiUrl": "https://denguesense-backend-1.onrender.com"
     },
-    "owner": "jb1010"
+    "owner": "jb1010",
+    "ios": {
+      "bundleIdentifier": "bd.bsia.denguesense",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
   }
 }
